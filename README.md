@@ -1,1 +1,1 @@
-## starter file for front-end projects
+## Starter file for front-end projects
