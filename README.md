@@ -1,1 +1,3 @@
-## Starter file for front-end projects
+# Webpack App Starter
+
+Frontend environment for building JavaScript Applications
